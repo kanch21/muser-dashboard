@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+# MUSER export files
+**/*.csv
+**/*.kml
+**/*.kmz
+**/*.xlsx
+**/*.xls
+**/*.xlsb
+**/*.xlsm
+**/*.xl*
+
 # Distribution / packaging
 .Python
 build/
